@@ -82,5 +82,12 @@
 		"name": "懋和道人",
 		"description": "全真道名至臣，正壹道名和道，茅山道名懋和",
 		"github_username": "wulintang"
-	}
+	},
+	"16": {
+		"domain": "nbmao.com",
+		"icon": "https://dd-static.jd.com/ddimg/jfs/t1/219537/24/15272/63022/62356c6bEd1ba5686/5905050e91513f7d.jpg",
+		"name": "笨猫博客",
+		"description": "笨猫",
+		"github_username": "MCTGyt"
+         }
 }
